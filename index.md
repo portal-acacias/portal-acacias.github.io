@@ -49,15 +49,10 @@ Monto a pagar
 - No Esquinera: `1.950,##`
 - [Descargar recibo](../files/Noviembre2018.pdf)
 
-# Proyectos Completados 2018
+# Proyectos Realizados en Diciembre 2018
 ---
 
 - 🏊‍♀️ Colocar tejas y pintar el área perimetral de la piscina
 - 🚨 Instalar sistema de apertura de portón mediante tecnología celular.
 - 👨‍🎨 Pintar porton de la entrada principal
 - 👨‍🎨 Pintar paredes blancas de areas comunes
-
-<details>
-<summary>Click to toggle contents of `code`</summary>
-![Pendientes](/files/pendiente.png)
-</details>
