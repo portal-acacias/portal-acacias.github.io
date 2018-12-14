@@ -1,4 +1,6 @@
-Información de Interés
+# Información de Interés
+
+---
 
 - 🏦 Cuenta Bancaria
 
@@ -26,3 +28,30 @@ Información de Interés
 ---
 
 Es importante colocar el `numero de casa en los centimos del monto`, para poder agilizar la conciliación bancaria de los pagos.
+
+- Montos pendientes por casa al `10 de Diciembre 2018`:
+
+## Recibo Diciembre 2018
+
+Monto a pagar
+
+- Esquinera: `3.170,##`
+- No Esquinera: `3.100,##`
+- Detalle del recibo
+
+## Recibo Noviembre 2018
+
+Monto a pagar
+
+- Esquinera: `1.995,##`
+- No Esquinera: `1.950,##`
+- Detalle del recibo
+
+# Proyectos Completados 2018
+
+---
+
+- 🏊‍♀️ Colocar tejas y pintar el área perimetral de la piscina
+- 🚨 Instalar sistema de apertura de portón mediante tecnología celular.
+- 👨‍🎨 Pintar porton de la entrada principal
+- 👨‍🎨 Pintar paredes blancas de areas comunes
