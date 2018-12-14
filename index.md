@@ -56,4 +56,4 @@ Monto a pagar
 - 👨‍🎨 Pintar porton de la entrada principal
 - 👨‍🎨 Pintar paredes blancas de areas comunes
 - 🏊‍♀️ Colocar tejas y pintar el área perimetral de la piscina
-![Piscina](../files/piscina.JPG)
+![Piscina](/files/piscina.JPG)
