@@ -21,12 +21,12 @@ portalacacias2014@gmail.com
     `0276-4172455`
 
 # Recibos de pago
-
 ---
 
 Es importante colocar el `numero de casa en los centimos del monto`, para poder agilizar la conciliación bancaria de los pagos.
 
 - Montos pendientes por casa al `10 de Diciembre 2018`:
+
 
 ## Recibo Diciembre 2018
 
