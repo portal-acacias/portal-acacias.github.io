@@ -30,6 +30,7 @@ portalacacias2014@gmail.com
 Es importante colocar el `numero de casa en los centimos del monto`, para poder agilizar la conciliación bancaria de los pagos.
 
 - Montos pendientes por casa al `10 de Diciembre 2018`:
+![Pendientes](/files/pendiente.png)
 
 
 ## Recibo Diciembre 2018
