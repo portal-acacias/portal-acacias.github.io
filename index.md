@@ -46,7 +46,7 @@ Monto a pagar
 
 - Esquinera: `1.995,##`
 - No Esquinera: `1.950,##`
-- Detalle del recibo
+- Descargar recibo
 
 # Proyectos Completados 2018
 ---
@@ -55,3 +55,10 @@ Monto a pagar
 - 🚨 Instalar sistema de apertura de portón mediante tecnología celular.
 - 👨‍🎨 Pintar porton de la entrada principal
 - 👨‍🎨 Pintar paredes blancas de areas comunes
+
+<details>
+<summary>Click to toggle contents of `code`</summary>
+```
+CODE!
+```
+</details>
