@@ -2,13 +2,13 @@
 ---
 
 - 🏦 Cuenta Bancaria
-
-> Banco Sofitasa
-> Cta. Cte. 0137-0067-2100-0002-7501
-> RIF J-29589249-7
-> Junta de Condominio El Portal de las Acacias
-> portalacacias2014@gmail.com
-
+```
+Banco Sofitasa
+Cta. Cte. 0137-0067-2100-0002-7501
+RIF J-29589249-7
+Junta de Condominio El Portal de las Acacias
+portalacacias2014@gmail.com
+```
 
 - 🚧 Apertura del Porton Principal
     
@@ -18,7 +18,6 @@
     
     - Enviar un mensaje de texto que diga `SALIDA1` al numero telefónico del portón.
     - Realizar una llamada telefónica al numero telefónico del portón y esperar algunos repiques.
-
 
 - ☎️ Teléfono de Casilla de Vigilancia
     
