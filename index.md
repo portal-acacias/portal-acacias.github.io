@@ -39,7 +39,7 @@ Monto a pagar
 
 - Esquinera: `3.170,##`
 - No Esquinera: `3.100,##`
-- Detalle del recibo
+- [Descargar recibo](../files/Diciembre2018.pdf)
 
 ## Recibo Noviembre 2018
 
@@ -47,7 +47,7 @@ Monto a pagar
 
 - Esquinera: `1.995,##`
 - No Esquinera: `1.950,##`
-- Descargar recibo
+- [Descargar recibo](../files/Noviembre2018.pdf)
 
 # Proyectos Completados 2018
 ---
@@ -59,7 +59,5 @@ Monto a pagar
 
 <details>
 <summary>Click to toggle contents of `code`</summary>
-```
-CODE!
-```
+![Pendientes](/files/pendiente.png)
 </details>
