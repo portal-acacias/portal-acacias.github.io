@@ -52,7 +52,8 @@ Monto a pagar
 # Proyectos Realizados en Diciembre 2018
 ---
 
-- 🏊‍♀️ Colocar tejas y pintar el área perimetral de la piscina
 - 🚨 Instalar sistema de apertura de portón mediante tecnología celular.
 - 👨‍🎨 Pintar porton de la entrada principal
 - 👨‍🎨 Pintar paredes blancas de areas comunes
+- 🏊‍♀️ Colocar tejas y pintar el área perimetral de la piscina
+![Piscina](../files/piscina.JPEG)
