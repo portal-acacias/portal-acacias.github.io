@@ -2,8 +2,9 @@
 ---
 * Parrandon Navideño con los niños de la urbanizacion el Viernes 21 de Diciembre a las 7:30 pm. Todos cordialmente invitados. 
 * Dala la situación país en la que todos los días suben de precio las cosas, se hace imposible cumplir con los gastos presupuestados si no se recibe el pago del recibo a tiempo.
-Por ende, a partir del mes de Enero 2019 entrará en vigor la siguiente norma:
-`Una vez emitido el recibo de pago, las casas con deuda tendrá que cancelar cada recibo pendiente al monto del nuevo recibo.`
+Por ende, a partir del mes de Enero 2019 entrará en vigor las siguientes normas:
+    * Una vez emitido el recibo de pago, las casas con deuda tendrá que cancelar cada recibo pendiente al monto del nuevo recibo.
+    * Luego de dos meses de mora, se excluiran los numeros de telefono de la casa en mora para abrir el porton principal mediante sistema celular.
 
 
 # Recibos de pago
