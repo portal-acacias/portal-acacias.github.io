@@ -1,10 +1,10 @@
 # Noticias
 ---
-* Parrandon Navideño con los niños de la urbanizacion el Viernes 21 de Diciembre a las 7:30 pm. Todos cordialmente invitados. 
 * Dala la situación país en la que todos los días suben de precio las cosas, se hace imposible cumplir con los gastos presupuestados si no se recibe el pago del recibo a tiempo.
 Por ende, a partir del mes de Enero 2019 entrará en vigor las siguientes normas:
-    * Una vez emitido el recibo de pago, las casas con deuda tendrá que cancelar cada recibo pendiente al monto del nuevo recibo.
-    * Luego de dos meses de mora, se excluiran los numeros de telefono de la casa en mora para abrir el porton principal mediante sistema celular.
+    1. Una vez emitido el nuevo recibo de pago, las casas con deuda entran en mora y se les calculará el recibo pendiente al monto del nuevo recibo.
+    2. Las casas con 1 mes de mora no prodran hacer uso de la piscina.
+    3. Las casas con 2 meses de mora, se excluiran los numeros de telefono de la casa en mora para abrir el porton principal mediante sistema celular.
 
 
 # Recibos de pago
@@ -13,8 +13,7 @@ Por ende, a partir del mes de Enero 2019 entrará en vigor las siguientes normas
 * Es importante colocar el `numero de casa en los centimos del monto`, para poder agilizar la conciliación bancaria de los pagos.
 * Una vez emitido el recibo de pago, las casas con deuda tendrá que cancelar cada recibo pendiente al monto del nuevo recibo.
 
-- Montos a pagar por casa al `20 de Diciembre 2018`:
-Total de pendiente por recaudar es mas de 60.000 Bs.
+- Montos a pagar por casa al `26 de Diciembre 2018`:
 ![Pendientes](/files/pendiente.png)
 
 ### Recibo Diciembre 2018
@@ -60,7 +59,8 @@ portalacacias2014@gmail.com
     `0276-4172455`
 
 #### Normas para el uso regular de la piscina:
-* Solo son permitidos 3 invitados por casa por dia. 
+* Debe estar al dia con el condominio, no debe estar en mora.
+* Solo son permitidos 3 invitados por casa por dia.
 * Ducharse antes de entrar a la piscina.
 * Prohibido orinar en la piscina.
 * Prohibido comer, beber e ingerir licor en la piscina.
@@ -84,3 +84,5 @@ Debe estar al dia con el condiminio y no haber caido en mora en los ultimos 3 me
 - 👨‍🎨 Pintar paredes blancas de areas comunes
 - 🏊‍♀️ Colocar tejas y pintar el área perimetral de la piscina
 ![Piscina](/files/piscina.JPG)
+- 🎼 Parrandon Navideño.
+![Parrandon](/files/parrandon.JPG)
