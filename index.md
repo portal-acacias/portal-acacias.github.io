@@ -14,7 +14,7 @@ Por ende, a partir del mes de Enero 2019 entrará en vigor las siguientes normas
 * Una vez emitido el recibo de pago, las casas con deuda tendrá que cancelar cada recibo pendiente al monto del nuevo recibo.
 
 - Montos a pagar por casa al `26 de Diciembre 2018`:
-![Pendientes](/files/pendiente.png)
+![Pendientes](/files/pendiente-2.png)
 
 ### Recibo Diciembre 2018
 
