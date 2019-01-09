@@ -13,8 +13,16 @@ Por ende, a partir del mes de Enero 2019 entrará en vigor las siguientes normas
 * Es importante colocar el `numero de casa en los centimos del monto`, para poder agilizar la conciliación bancaria de los pagos.
 * Una vez emitido el recibo de pago, las casas con deuda tendrá que cancelar cada recibo pendiente al monto del nuevo recibo.
 
-- Montos a pagar por casa al `26 de Diciembre 2018`:
-![Pendientes](/files/pendiente-2.png)
+- Montos a pagar por casa al `08 de Enero 2019`:
+![Pendientes](/files/pendiente-3.png)
+
+### Recibo Enero 2019
+
+Monto a pagar
+
+- Esquinera: `4.770,##`
+- No Esquinera: `4.660,##`
+- [Descargar recibo](../files/2019-01.pdf)
 
 ### Recibo Diciembre 2018
 
